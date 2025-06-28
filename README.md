@@ -12,7 +12,7 @@ I'm a Software Engineer with 6+ years of experience in MES systems, Java develop
 - Deep Learning | AI/ML | Industry 4.0
 
 ## 📂 Projects
-- [Python Mini Project - BITS Pilani](https://github.com/yourusername/python-mini-project-bits-pilani)
+- [Luggage Bag Cost Prediction 🔗](https://github.com/VarshaShekhar/luggage-cost-prediction)
 - [More coming soon...]
 
 ## 📫 Connect with me

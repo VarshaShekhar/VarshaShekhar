@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋 I'm Varsha S
 
-<!--
-**VarshaShekhar/VarshaShekhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer with 6+ years of experience in MES systems, Java development, and industrial automation. Currently pursuing a PG program in AI/ML from BITS Pilani and teaching Python to school students as part of my commitment to tech education.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- Java, Spring Boot, Vaadin, Angular
+- Python, Jupyter, Pandas, NumPy
+- Rockwell FTPC, CPG Suite
+- SQL, Jenkins, ActiveMQ, Git, Maven
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📘 Current Learning
+- Deep Learning | AI/ML | Industry 4.0
+
+## 📂 Projects
+- [Python Mini Project - BITS Pilani](https://github.com/yourusername/python-mini-project-bits-pilani)
+- [More coming soon...]
+
+## 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/varsha-shekhar/)
+- [Email](mailto:varshaiyer96@gmail.com)
+
+

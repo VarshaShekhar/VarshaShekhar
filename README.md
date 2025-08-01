@@ -13,6 +13,8 @@ I'm a Software Engineer with 6+ years of experience in MES systems, Java develop
 
 ## 📂 Projects
 - [Luggage Bag Cost Prediction 🔗](https://github.com/VarshaShekhar/luggage-cost-prediction)
+- [Feature Engineering Product - Using Marcari data set](https://github.com/VarshaShekhar/feature-engineering-project)
+- [Credit Card Fraud Detection Using KNN](https://github.com/VarshaShekhar/credit-card-fraud-detection-knn)
 - [More coming soon...]
 
 ## 📫 Connect with me

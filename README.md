@@ -15,6 +15,7 @@ I'm a Software Engineer with 6+ years of experience in MES systems, Java develop
 - [Luggage Bag Cost Prediction 🔗](https://github.com/VarshaShekhar/luggage-cost-prediction)
 - [Feature Engineering Project - Using Marcari data set 🔗](https://github.com/VarshaShekhar/feature-engineering-project)
 - [Credit Card Fraud Detection Using KNN 🔗](https://github.com/VarshaShekhar/credit-card-fraud-detection-knn)
+- [Placement Prediction Using Naïve Bayes and Logistic Regression 🔗](https://github.com/VarshaShekhar/placement-prediction-naivebayes-logisticregression)
 - [More coming soon...]
 
 ## 📫 Connect with me

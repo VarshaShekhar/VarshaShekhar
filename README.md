@@ -17,6 +17,7 @@ I'm a Software Engineer with 6+ years of experience in MES systems, Java develop
 - [Credit Card Fraud Detection Using KNN 🔗](https://github.com/VarshaShekhar/credit-card-fraud-detection-knn)
 - [Placement Prediction Using Naïve Bayes and Logistic Regression 🔗](https://github.com/VarshaShekhar/placement-prediction-naivebayes-logisticregression)
 - [Placement Prediction Using Decision Tree 🔗](https://github.com/VarshaShekhar/placement-prediction-decision-tree)
+- [Credit Default Prediction Using SVM 🔗](https://github.com/VarshaShekhar/credit-default-prediction-svm)
 - [More coming soon...]
 
 ## 📫 Connect with me

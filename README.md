@@ -19,6 +19,7 @@ I'm a Software Engineer with 6+ years of experience in MES systems, Java develop
 - [Placement Prediction Using Decision Tree 🔗](https://github.com/VarshaShekhar/placement-prediction-decision-tree)
 - [Credit Default Prediction Using SVM 🔗](https://github.com/VarshaShekhar/credit-default-prediction-svm)
 - [K-Means Clustering Analysis of Cricket Players 🔗](https://github.com/VarshaShekhar/cricket-analysis-kmeans)
+- [Cricket Player Analysis using Silhouette Score 🔗](https://github.com/VarshaShekhar/cricket-analysis-silhouette-score)
 - [More coming soon...]
 
 ## 📫 Connect with me

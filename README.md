@@ -21,6 +21,7 @@ I'm a Software Engineer with 6+ years of experience in MES systems, Java develop
 - [K-Means Clustering Analysis of Cricket Players 🔗](https://github.com/VarshaShekhar/cricket-analysis-kmeans)
 - [Cricket Player Analysis using Silhouette Score 🔗](https://github.com/VarshaShekhar/cricket-analysis-silhouette-score)
 - [Insurance Customer Segmentation using Clustering 🔗](https://github.com/VarshaShekhar/market-segmentation-insurance)
+- [Customer Behaviour Analysis and Segmentation 🔗](https://github.com/VarshaShekhar/customer-behaviour-analysis)
 - [More coming soon...]
 
 ## 📫 Connect with me

@@ -23,6 +23,7 @@ I'm a Software Engineer with 6+ years of experience in MES systems, Java develop
 - [Insurance Customer Segmentation using Clustering 🔗](https://github.com/VarshaShekhar/market-segmentation-insurance)
 - [Customer Behaviour Analysis and Segmentation 🔗](https://github.com/VarshaShekhar/customer-behaviour-analysis)
 - [Text Analytics & Topic Modeling 🔗](https://github.com/VarshaShekhar/text-analysis-toolkit)
+- [Diabetes prediction using Deep Learning & Artificial Neural Networks 🔗](https://github.com/VarshaShekhar/neural-networks-from-perceptron-to-ann)
 - [More coming soon...]
 
 ## 📫 Connect with me

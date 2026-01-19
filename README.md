@@ -24,6 +24,7 @@ I'm a Software Engineer with 6+ years of experience in MES systems, Java develop
 - [Customer Behaviour Analysis and Segmentation 🔗](https://github.com/VarshaShekhar/customer-behaviour-analysis)
 - [Text Analytics & Topic Modeling 🔗](https://github.com/VarshaShekhar/text-analysis-toolkit)
 - [Diabetes prediction using Deep Learning & Artificial Neural Networks 🔗](https://github.com/VarshaShekhar/neural-networks-from-perceptron-to-ann)
+- [Face Mask Detection Using Convolutional Neural Networks 🔗](https://github.com/VarshaShekhar/face-mask-detection-using-cnn)
 - [More coming soon...]
 
 ## 📫 Connect with me

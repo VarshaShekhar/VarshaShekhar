@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Varsha S
+# Varsha S
 
 I'm a Software Engineer with 7+ years of experience in MES systems, Java development, and industrial automation. Currently pursuing a PG program in AI/ML from BITS Pilani and teaching Python to school students as part of my commitment to tech education.
 

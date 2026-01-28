@@ -1,12 +1,17 @@
 # Hi there 👋 I'm Varsha S
 
-I'm a Software Engineer with 6+ years of experience in MES systems, Java development, and industrial automation. Currently pursuing a PG program in AI/ML from BITS Pilani and teaching Python to school students as part of my commitment to tech education.
+I'm a Software Engineer with 7+ years of experience in MES systems, Java development, and industrial automation. Currently pursuing a PG program in AI/ML from BITS Pilani and teaching Python to school students as part of my commitment to tech education.
 
 ## 🔧 Technologies & Tools
-- Java, Spring Boot, Vaadin, Angular
-- Python, Jupyter, Pandas, NumPy
-- Rockwell FTPC, CPG Suite
-- SQL, Jenkins, ActiveMQ, Git, Maven
+
+- **Programming & IDEs**: Java, Python, Jupyter Notebook, Spring Boot, Vaadin
+- **Software & DevOps Tools**: Rockwell FTPC, CPG Suite, SQL, Jenkins, ActiveMQ, Maven
+- **Data Manipulation & Analysis**: Pandas, NumPy  
+- **Data Visualization**: Matplotlib, Seaborn, Plotly  
+- **Machine Learning & Modeling**: scikit-learn (Regression, Classification, Clustering), Keras, TensorFlow, ANN  
+- **Feature Engineering & Text Mining**: NLP, TF-IDF, One-Hot Encoding, Log Transformation, Market Basket Analysis  
+- **Evaluation & Metrics**: Accuracy, Precision, Recall, F1-Score, R², MSE, RMSE  
+- **Version Control & Collaboration**: Git, GitHub  
 
 ## 📘 Current Learning
 - Deep Learning | AI/ML | Industry 4.0

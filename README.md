@@ -12,16 +12,16 @@ I'm a Software Engineer with 6+ years of experience in MES systems, Java develop
 - Deep Learning | AI/ML | Industry 4.0
 
 ## 📂 Projects
-- [Luggage Bag Cost Prediction 🔗](https://github.com/VarshaShekhar/luggage-cost-prediction)
-- [Feature Engineering Project - Using Marcari data set 🔗](https://github.com/VarshaShekhar/feature-engineering-project)
+- [Luggage Cost Prediction using Linear Regression & Gradient Descent 🔗](https://github.com/VarshaShekhar/luggage-cost-prediction)
+- [Mercari Product Price Prediction — Feature Engineering & Regression 🔗](https://github.com/VarshaShekhar/feature-engineering-project)
 - [Credit Card Fraud Detection Using KNN 🔗](https://github.com/VarshaShekhar/credit-card-fraud-detection-knn)
-- [Placement Prediction Using Naïve Bayes and Logistic Regression 🔗](https://github.com/VarshaShekhar/placement-prediction-naivebayes-logisticregression)
+- [Placement Prediction Using Naïve Bayes & Logistic Regression 🔗](https://github.com/VarshaShekhar/placement-prediction-naivebayes-logisticregression)
 - [Placement Prediction Using Decision Tree 🔗](https://github.com/VarshaShekhar/placement-prediction-decision-tree)
 - [Credit Default Prediction Using SVM 🔗](https://github.com/VarshaShekhar/credit-default-prediction-svm)
 - [K-Means Clustering Analysis of Cricket Players 🔗](https://github.com/VarshaShekhar/cricket-analysis-kmeans)
 - [Cricket Player Analysis using Silhouette Score 🔗](https://github.com/VarshaShekhar/cricket-analysis-silhouette-score)
 - [Insurance Customer Segmentation using Clustering 🔗](https://github.com/VarshaShekhar/market-segmentation-insurance)
-- [Customer Behaviour Analysis and Segmentation 🔗](https://github.com/VarshaShekhar/customer-behaviour-analysis)
+- [Customer Behaviour Analysis & Segmentation 🔗](https://github.com/VarshaShekhar/customer-behaviour-analysis)
 - [Text Analytics & Topic Modeling 🔗](https://github.com/VarshaShekhar/text-analysis-toolkit)
 - [Diabetes prediction using Deep Learning & Artificial Neural Networks 🔗](https://github.com/VarshaShekhar/neural-networks-from-perceptron-to-ann)
 - [Face Mask Detection Using Convolutional Neural Networks 🔗](https://github.com/VarshaShekhar/face-mask-detection-using-cnn)
@@ -30,6 +30,6 @@ I'm a Software Engineer with 6+ years of experience in MES systems, Java develop
 
 ## 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/varsha-shekhar/)
-- [Email](mailto:varshaiyer96@gmail.com)
+- [Gmail📧](mailto:varshaiyer96@gmail.com)
 
 
